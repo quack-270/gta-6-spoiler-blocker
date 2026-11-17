@@ -30,6 +30,7 @@ This app is an independent project and is not affiliated with, sponsored by, or 
 
 (a temporary version until the playstore version gets enough testers to get approved)
 
-Ffor the playstore version I need beta testers, I need 12 testers using the app for 14 days, playstore requires an email invite, if you wanna help me get the playstore version published, please join the discord server
+For the playstore version I need TESTERS!
+I need 12 testers using the app for 14 days, playstore requires an email invite, if you want to try out the official app from playstore and wanna help me get the playstore version published, please join the discord server
 https://discord.gg/bu28ve7x3e
 Same thing for feedback, the discord server keeps feedback centralized 
